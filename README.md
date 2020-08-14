@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Julia
 - 👯 I’m looking to collaborate on Machine Learning projects
 - 🤔 I’m looking for help with speech tooo text models.
-- 💬 Ask me about Machine Learning
+- 💬 Ask me about Data Science
 - 📫 How to reach me: subhajeet.mishra@outlook.com
 - ⚡ Fun fact: Math befind ML algorithms is very intresing.
 <!--
