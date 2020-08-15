@@ -9,13 +9,10 @@
 
 
 <html>
-<footer class="w3-container w3-teal  w3-center w3-margin-top">
   <p>Find me on social media.</p>
   <a href='https://www.facebook.com/msubhajeet1' class="fa fa-facebook-official w3-hover-opacity"></a>
   <a href='https://twitter.com/msubhajeet1' class="fa fa-twitter w3-hover-opacity"></a>
   <a href='https://www.linkedin.com/in/subhajeetmishra' class="fa fa-linkedin w3-hover-opacity"></a>
-<a href='https://github.com/sjeetm' class="fa fa-github w3-hover-opacity"></a>
-</footer>
 </html>
 
 
