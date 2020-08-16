@@ -5,7 +5,7 @@
 
 ## ABOUT
 
-I am a **Subject Mater Expert in Machine Learning** with **1.5+ years experience** working in **recommender systems**, **pricing analytics** and **image recognition** with proficient knowledge in **statistics**, **applied mathematics**, **analytics**, **machine learning** and **python**. Currently I am working on speech to text conversion for Indian regional languages and learning Julia.
+I am a **Subject Matter Expert in Machine Learning** with **1.5+ years experience** working in **recommender systems**, **pricing analytics** and **image recognition** with proficient knowledge in **statistics**, **applied mathematics**, **analytics**, **machine learning** and **python**. Currently I am working on speech to text conversion for Indian regional languages and learning Julia.
 
 ## SKILLS
 
