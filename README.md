@@ -24,7 +24,7 @@ I am a **Subject Mater Expert in Machine Learning** with **1.5+ years experience
 ### Hackerearth - Problem Setter for ML and DS
 Sep 2019 - Present
 
-● Responsible for Creation and testing of Machine Learning and Data Science Problems and testing them along with organising Hiring Challenges for Clients.
+● Responsible for creating and testing Machine Learning and Data Science problems along with organising Hiring Challenges for Clients.
 
 ### Tata Consultancy Services - Project Intern
 Jan 2019 - May 2019
