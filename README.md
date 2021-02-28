@@ -21,8 +21,13 @@ I am a **Subject Matter Expert in Machine Learning** with **2 years experience**
 
 ## EXPERIENCE
 
+### Hackerearth - Lead Problem Setter
+Jan 2021 - Present
+
+● Leading a team of problem setters and helping teams with organising Hiring Challenges for Clients.
+
 ### Hackerearth - Problem Setter for ML and DS
-Sep 2019 - Present
+Sep 2019 - Dec 2020
 
 ● Responsible for creating and testing Machine Learning and Data Science problems along with organising Hiring Challenges for Clients.
 
