@@ -5,7 +5,7 @@
 
 ## ABOUT
 
-I am a **Subject Matter Expert in Machine Learning** with **2 years experience** working in **recommender systems**, **pricing analytics** and **image recognition** with proficient knowledge in **statistics**, **applied mathematics**, **analytics**, **machine learning** and **python**. Currently I am working on speech to text conversion for Indian regional languages and learning Julia.
+I am a **Data Scientist** with **2 years experience** working in **recommender systems**, **pricing analytics** and **image recognition** with proficient knowledge in **statistics**, **applied mathematics**, **analytics**, **machine learning** and **python**. Currently I am working on speech to text conversion for Indian regional languages and learning Julia.
 
 ## SKILLS
 
@@ -21,8 +21,11 @@ I am a **Subject Matter Expert in Machine Learning** with **2 years experience**
 
 ## EXPERIENCE
 
+### Hackerearth - Data Scientist
+Oct 2021 - Present
+ 
 ### Hackerearth - Lead Problem Setter
-Jan 2021 - Present
+Jan 2021 - Sep 2021
 
 ● Leading a team of problem setters and helping teams with organising Hiring Challenges for Clients.
 
