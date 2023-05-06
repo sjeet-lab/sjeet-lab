@@ -22,45 +22,19 @@ I am a **Data Scientist** with **2 years experience** working in **recommender s
 ## EXPERIENCE
 
 ### Hackerearth - Data Scientist
-Oct 2021 - Present
- 
-### Hackerearth - Lead Problem Setter
-Jan 2021 - Sep 2021
-
-● Leading a team of problem setters and helping teams with organising Hiring Challenges for Clients.
+Jan 2020 - Present
 
 ### Hackerearth - Problem Setter for ML and DS
-Sep 2019 - Dec 2020
-
-● Responsible for creating and testing Machine Learning and Data Science problems along with organising Hiring Challenges for Clients.
+Sep 2019 - Dec 2019
 
 ### Tata Consultancy Services - Project Intern
 Jan 2019 - May 2019
 
-● Responsible for **delivering insights** with **95% accuracy** and **performing predictive and prescriptive analysis** in the space of **Retail and Supply Chain**.
-
-● **Designed algorithm** to **prescribe effective prices of products** based on demand and customer behaviour.
-```
-● Tools: Python, Scikit-Learn, Pandas, Tensorflow, Matplotlib, statsmodel, ortools
-```
-### Teaching and Learning Center, Central University of Rajasthan - Research Intern
-May 2018 - Jul 2018
-
-● Project was aimed to recommend online MOOC course to the students based on their institute semester curriculum.
-
-● Built the underlying machine learning model using text mining and collaborative filtering working as a team member working on algorithm development.
-```
-● Tools: Python, Scikit-Learn, Pandas, Numpy, NLTK
-```
 ### GotIt! Inc - Online Tutor
 Mar 2016 - Apr 2017
 
-● Clearing doubts of students in Mathematics and helping them with their homework.
-
 ### IIT Bombay - Summer Intern
 May 2015
-
-● Using Calculus and Differential Equations modelled a Sustainable Fishery Management System.
 
 
 <!--
