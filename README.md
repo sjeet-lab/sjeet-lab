@@ -5,7 +5,7 @@
 
 ## ABOUT
 
-I am a **Data Scientist** with **2 years experience** working in **recommender systems**, **pricing analytics** and **image recognition** with proficient knowledge in **statistics**, **applied mathematics**, **analytics**, **machine learning** and **python**. Currently I am working on speech to text conversion for Indian regional languages and learning Julia.
+An experienced Data Scientist with experience in image processing, natural language processing, recommender systems, and pricing analytics. Proficient in statistics, applied mathematics, analytics, machine learning, and Python.
 
 ## SKILLS
 
